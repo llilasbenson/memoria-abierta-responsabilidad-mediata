@@ -3,6 +3,13 @@
     "id": "https://llilasbenson.github.io/memoria-abierta-responsabilidad-mediata/memoria-abierta-responsabilidad-mediata/manifest.json",
     "type": "Manifest",
     "label": { "en": [ "Memoria Abierta: Responsabilidad Mediata" ] },
+    "provider": [
+      {
+        "id": "https://memoriaabierta.org.ar/wp/",
+        "type": "Agent",
+        "label": { "en": [ "Memoria Abierta" ] }
+      }
+    ],
     "items": [
       {
         "id": "https://llilasbenson.github.io/memoria-abierta-responsabilidad-mediata/memoria-abierta-responsabilidad-mediata/canvas-1/canvas",
@@ -36,7 +43,9 @@
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
-                  "id": "",
+                  "id": "https://utexas.box.com/shared/static/h8a7veui6fv1hqipoqiftod992kj5aga.mp4",
+                    "type": "Video",
+                    "format": "video/mp4",
                     "duration": 590.0
                 },
                 "target": "https://llilasbenson.github.io/memoria-abierta-responsabilidad-mediata/memoria-abierta-responsabilidad-mediata/canvas-1/canvas"
