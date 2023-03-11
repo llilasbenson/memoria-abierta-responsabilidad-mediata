@@ -8,6 +8,24 @@
         "id": "https://llilasbenson.github.io/memoria-abierta-responsabilidad-mediata/memoria-abierta-responsabilidad-mediata/canvas-1/canvas",
         "type": "Canvas",
         "duration": 590.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://llilasbenson.github.io/memoria-abierta-responsabilidad-mediata/annotations/memoria-abierta-responsabilidad-mediata-canvas-1-c-digos.json",
+            "label": {
+              "none": ["Códigos"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://llilasbenson.github.io/memoria-abierta-responsabilidad-mediata/annotations/memoria-abierta-responsabilidad-mediata-canvas-1-miscelanea.json",
+            "label": {
+              "none": ["Miscelanea"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://llilasbenson.github.io/memoria-abierta-responsabilidad-mediata/memoria-abierta-responsabilidad-mediata/canvas-1/paintings",

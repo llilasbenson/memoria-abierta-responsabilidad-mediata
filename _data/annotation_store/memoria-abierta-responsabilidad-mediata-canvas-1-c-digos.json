@@ -1,0 +1,188 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://llilasbenson.github.io/memoria-abierta-responsabilidad-mediata/annotations/memoria-abierta-responsabilidad-mediata-canvas-1-c-digos.json",
+  "type": "AnnotationPage",
+  "label": "Códigos",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "memoria-abierta-responsabilidad-mediata-canvas-1-c-digos-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Se ha probado en esta audiencia, y de ello nos hemos ocupado extensamente en pasajes anteriores de este alegato, la realización de múltiples actos ilícitos que a su vez encuadran en diversas figuras del Código Penal.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Códigos",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://llilasbenson.github.io/memoria-abierta-responsabilidad-mediata/memoria-abierta-responsabilidad-mediata/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "8.0,28.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "memoria-abierta-responsabilidad-mediata-canvas-1-c-digos-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "provista de elementos materiales de toda clase, a la realización de una cantidad de actividades comprensivas de muchos y graves delitos descritos en el Código Penal.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Códigos",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://llilasbenson.github.io/memoria-abierta-responsabilidad-mediata/memoria-abierta-responsabilidad-mediata/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "90.0,103.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "memoria-abierta-responsabilidad-mediata-canvas-1-c-digos-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "La cuestión a plantear en este momento ante el tribunal consiste, pues, en establecer cuál es el encuadramiento legal, dentro de las formas de participación conocidas en el Código Penal,",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Códigos",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://llilasbenson.github.io/memoria-abierta-responsabilidad-mediata/memoria-abierta-responsabilidad-mediata/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "195.0,208.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "memoria-abierta-responsabilidad-mediata-canvas-1-c-digos-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "De manera que el destino final de la orden se cumpla inexorablemente. Solo resta señalar que, a la luz del artículo 514 del Código de Justicia Militar, aplicable a los procesados en esta causa,",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Códigos",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://llilasbenson.github.io/memoria-abierta-responsabilidad-mediata/memoria-abierta-responsabilidad-mediata/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "508.0,524.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "memoria-abierta-responsabilidad-mediata-canvas-1-c-digos-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "A modo de conclusión, solo cabe señalar que, más allá de la regla expresa del artículo 514 del Código de Justicia Militar que instituye inequívocamente en autores a quienes cometen delitos por medio de su subordinados",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Códigos",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://llilasbenson.github.io/memoria-abierta-responsabilidad-mediata/memoria-abierta-responsabilidad-mediata/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "534.0,550.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "memoria-abierta-responsabilidad-mediata-canvas-1-c-digos-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "como también se ha sostenido, conduce a idéntica conclusión en punto a declarar los comprendidos en los términos del artículo 45 del Código Penal",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Códigos",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://llilasbenson.github.io/memoria-abierta-responsabilidad-mediata/memoria-abierta-responsabilidad-mediata/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "570.0,581.0"
+        }
+      }
+    }
+  ]
+}

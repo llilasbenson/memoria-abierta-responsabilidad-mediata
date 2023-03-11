@@ -1,0 +1,778 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://llilasbenson.github.io/memoria-abierta-responsabilidad-mediata/annotations/memoria-abierta-responsabilidad-mediata-canvas-1-miscelanea.json",
+  "type": "AnnotationPage",
+  "label": "Miscelanea",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "memoria-abierta-responsabilidad-mediata-canvas-1-miscelanea-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Antes de entrar al análisis de la intervención de los procesados en estos actos, conviene establecer cuál es la responsabilidad",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://llilasbenson.github.io/memoria-abierta-responsabilidad-mediata/memoria-abierta-responsabilidad-mediata/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "30.0,40.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "memoria-abierta-responsabilidad-mediata-canvas-1-miscelanea-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "que cabe a aquellos que asumen una participación cuya particular característica consiste en que no se registra su presencia en el lugar y en el momento en que las actividades ilícitas se desarrollaron;",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://llilasbenson.github.io/memoria-abierta-responsabilidad-mediata/memoria-abierta-responsabilidad-mediata/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "40.0,58.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "memoria-abierta-responsabilidad-mediata-canvas-1-miscelanea-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "y cuya actividad radica en haber dado las órdenes generales a partir de las cuales el conjunto de delitos aquí presentados se cometió.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://llilasbenson.github.io/memoria-abierta-responsabilidad-mediata/memoria-abierta-responsabilidad-mediata/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "58.0,69.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "memoria-abierta-responsabilidad-mediata-canvas-1-miscelanea-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Esas órdenes, a cuyo contenido más adelante me referiré, dadas desde la cabeza del aparato estatal, significaron la asignación de una parte importante de este,",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://llilasbenson.github.io/memoria-abierta-responsabilidad-mediata/memoria-abierta-responsabilidad-mediata/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "73.0,90.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "memoria-abierta-responsabilidad-mediata-canvas-1-miscelanea-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Comportaron a sí mismo la prescripción a los integrantes de esa parte del aparato del Estado de realizar secuestros, aplicación de tormentos y homicidios respecto de una vasta cantidad de personas definidas vagamente,",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://llilasbenson.github.io/memoria-abierta-responsabilidad-mediata/memoria-abierta-responsabilidad-mediata/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "104.0,122.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "memoria-abierta-responsabilidad-mediata-canvas-1-miscelanea-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "sobre la base de una categoría genérica como individuos subversivos y caracterizados todos ellos, solamente, por su enfrentamiento más o menos fuerte con el sistema de gobierno imperante en ese momento.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://llilasbenson.github.io/memoria-abierta-responsabilidad-mediata/memoria-abierta-responsabilidad-mediata/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "122.0,138.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "memoria-abierta-responsabilidad-mediata-canvas-1-miscelanea-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Esas órdenes importaron, a su vez, en razón de las particularidades de funcionamiento que se prescribieron para ese sector del aparato estatal,",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://llilasbenson.github.io/memoria-abierta-responsabilidad-mediata/memoria-abierta-responsabilidad-mediata/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "141.0,153.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "memoria-abierta-responsabilidad-mediata-canvas-1-miscelanea-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "esto es la clandestinidad de su modo de operar y la absoluta libertad de acción para sus integrantes a fin de que determinaran los objetivos dentro de ese marco vagamente descrito,",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://llilasbenson.github.io/memoria-abierta-responsabilidad-mediata/memoria-abierta-responsabilidad-mediata/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "154.0,169.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "memoria-abierta-responsabilidad-mediata-canvas-1-miscelanea-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "la aceptación de que en ese ámbito operativo habrían de cometerse masivamente otro grupo de delitos, tales como robos, abortos, violaciones y supresión del estado civil de menores;",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://llilasbenson.github.io/memoria-abierta-responsabilidad-mediata/memoria-abierta-responsabilidad-mediata/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "170.0,182.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "memoria-abierta-responsabilidad-mediata-canvas-1-miscelanea-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "así como también, los mismos delitos antes señalados, pero respecto de personas ajenas a la vaga caracterización inicial.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://llilasbenson.github.io/memoria-abierta-responsabilidad-mediata/memoria-abierta-responsabilidad-mediata/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "183.0,193.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "memoria-abierta-responsabilidad-mediata-canvas-1-miscelanea-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "de la conducta de los procesados respecto de los delitos a que hemos hecho referencia.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://llilasbenson.github.io/memoria-abierta-responsabilidad-mediata/memoria-abierta-responsabilidad-mediata/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "209.0,215.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "memoria-abierta-responsabilidad-mediata-canvas-1-miscelanea-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "La cuestión que se encuentra planteada es la siguiente: ¿Quién es el autor de los hechos delictivos que se cometen mediante la utilización de un aparato organizado de poder?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://llilasbenson.github.io/memoria-abierta-responsabilidad-mediata/memoria-abierta-responsabilidad-mediata/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "216.0,227.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "memoria-abierta-responsabilidad-mediata-canvas-1-miscelanea-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "O bien, para circunscribir la pregunta a lo que es materia de decisión en estos autos, ¿Puede ser considerado autor de los hechos delictivos cometidos en el seno de un aparato organizado de poder el que dirige esa estructura de poder,",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://llilasbenson.github.io/memoria-abierta-responsabilidad-mediata/memoria-abierta-responsabilidad-mediata/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "228.0,244.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "memoria-abierta-responsabilidad-mediata-canvas-1-miscelanea-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "aunque no haya participado materialmente en la ejecución de los hechos?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://llilasbenson.github.io/memoria-abierta-responsabilidad-mediata/memoria-abierta-responsabilidad-mediata/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "245.0,250.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "memoria-abierta-responsabilidad-mediata-canvas-1-miscelanea-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Puesta aún de otra manera la pregunta, ¿Puede afirmarse que el que dirige un aparato organizado de poder domina los hechos delictivos, es dueño de la situación delictiva a pesar de no intervenir personalmente la realización de esta?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://llilasbenson.github.io/memoria-abierta-responsabilidad-mediata/memoria-abierta-responsabilidad-mediata/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "251.0,267.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "memoria-abierta-responsabilidad-mediata-canvas-1-miscelanea-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Si la respuesta a ese interrogante es, como creo, afirmativa podrá sostenerse que el llamado “autor de escritorio” domina los hechos que realiza el aparato de poder que dirige.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://llilasbenson.github.io/memoria-abierta-responsabilidad-mediata/memoria-abierta-responsabilidad-mediata/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "269.0,283.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "memoria-abierta-responsabilidad-mediata-canvas-1-miscelanea-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Esto es, que sobre determina la causalidad que conduce a todos y cada uno de los hechos ilícitos realizados por ese aparato de poder.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://llilasbenson.github.io/memoria-abierta-responsabilidad-mediata/memoria-abierta-responsabilidad-mediata/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "284.0,294.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "memoria-abierta-responsabilidad-mediata-canvas-1-miscelanea-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Marginalmente, esa respuesta apareja consecuencias distintas de las que se producirían si, a idéntico interrogante, se respondiera diciendo que se trata de instigadores y no de autores.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://llilasbenson.github.io/memoria-abierta-responsabilidad-mediata/memoria-abierta-responsabilidad-mediata/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "297.0,310.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "memoria-abierta-responsabilidad-mediata-canvas-1-miscelanea-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "En efecto, la afirmación de que son autores lleva a sostener que el comienzo de ejecución tiene lugar en el momento en que se dan las órdenes ilegales, y,",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://llilasbenson.github.io/memoria-abierta-responsabilidad-mediata/memoria-abierta-responsabilidad-mediata/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "311.0,323.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "memoria-abierta-responsabilidad-mediata-canvas-1-miscelanea-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "consecuentemente, que tienen la posibilidad de desistir de los actos ilícitos emprendidos, dependiendo el funcionamiento de la excusa absolutoria correspondiente al desistimiento, de la eficacia o ineficacia de este.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://llilasbenson.github.io/memoria-abierta-responsabilidad-mediata/memoria-abierta-responsabilidad-mediata/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "323.0,340.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "memoria-abierta-responsabilidad-mediata-canvas-1-miscelanea-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "El uso de la expresión “aparato organizado de poder”, admitida hoy sin discrepancia en la doctrina que se ocupa del tema, obliga, siquiera brevemente, a esclarecer el alcance que se le asigna.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://llilasbenson.github.io/memoria-abierta-responsabilidad-mediata/memoria-abierta-responsabilidad-mediata/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "341.0,359.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "memoria-abierta-responsabilidad-mediata-canvas-1-miscelanea-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "En la conformación estructural de ese tipo de organización aparece, a la cabeza, un centro de decisión desde el cual se imparten las directivas que se traducen en la realización de actos ilícitos.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://llilasbenson.github.io/memoria-abierta-responsabilidad-mediata/memoria-abierta-responsabilidad-mediata/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "360.0,375.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "memoria-abierta-responsabilidad-mediata-canvas-1-miscelanea-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "En ese centro de decisiones está, pues, la posibilidad de cometer o no cometer la actividad delictiva de qué se trate.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://llilasbenson.github.io/memoria-abierta-responsabilidad-mediata/memoria-abierta-responsabilidad-mediata/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "375.0,387.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "memoria-abierta-responsabilidad-mediata-canvas-1-miscelanea-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Cabe señalar, además, que en estas organizaciones existe una estructura objetiva suficiente que justifica el traslado o remisión del carácter de autor a quién da las órdenes, sin restarlo del ejecutor inmediato de esta",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://llilasbenson.github.io/memoria-abierta-responsabilidad-mediata/memoria-abierta-responsabilidad-mediata/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "389.0,407.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "memoria-abierta-responsabilidad-mediata-canvas-1-miscelanea-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "De esta manera, y vale reiterarlo, el aparato se presenta objetivamente como el fundamento de la extensión de la categoría de autor a quienes se encuentran en la cúspide de la estructura.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://llilasbenson.github.io/memoria-abierta-responsabilidad-mediata/memoria-abierta-responsabilidad-mediata/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "408.0,421.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "memoria-abierta-responsabilidad-mediata-canvas-1-miscelanea-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "La alta autoridad competente en este tipo de organizaciones domina el hecho, de modo tal que tomada la decisión de que ocurra determinado episodio delictivo, este acontece automáticamente.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://llilasbenson.github.io/memoria-abierta-responsabilidad-mediata/memoria-abierta-responsabilidad-mediata/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "427.0,444.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "memoria-abierta-responsabilidad-mediata-canvas-1-miscelanea-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Es el dato específico que caracteriza a estos aparatos organizados de poder.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://llilasbenson.github.io/memoria-abierta-responsabilidad-mediata/memoria-abierta-responsabilidad-mediata/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "444.0,450.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "memoria-abierta-responsabilidad-mediata-canvas-1-miscelanea-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Por otra parte, es de señalar que el encargo se cumple sin necesidad de que se conozca a los directos ejecutores.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://llilasbenson.github.io/memoria-abierta-responsabilidad-mediata/memoria-abierta-responsabilidad-mediata/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "451.0,461.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "memoria-abierta-responsabilidad-mediata-canvas-1-miscelanea-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Esta otra particularidad, que infrecuentemente se presentan las situaciones corrientes, es particularidad que conduce a firmar otro dato fundamental en la identificación de estos aparatos, es la fungibilidad de los ejecutores de las órdenes.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://llilasbenson.github.io/memoria-abierta-responsabilidad-mediata/memoria-abierta-responsabilidad-mediata/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "461.0,480.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "memoria-abierta-responsabilidad-mediata-canvas-1-miscelanea-annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "De este último elemento se deriva que en el supuesto de que alguien no cumpla la decisión tomada, otros se encargará de ejecutarla en su lugar.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://llilasbenson.github.io/memoria-abierta-responsabilidad-mediata/memoria-abierta-responsabilidad-mediata/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "482.0,493.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "memoria-abierta-responsabilidad-mediata-canvas-1-miscelanea-annotation-30.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Pues, una estructura de tales características posee la capacidad de reemplazo necesaria para que cada pieza de la máquina sea sustituida inmediatamente por otra que realice la misma función.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://llilasbenson.github.io/memoria-abierta-responsabilidad-mediata/memoria-abierta-responsabilidad-mediata/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "493.0,507.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "memoria-abierta-responsabilidad-mediata-canvas-1-miscelanea-annotation-31.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "el tratamiento como autores de quienes imparten órdenes que conducen a la realización de un delito, resulta inexorable.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://llilasbenson.github.io/memoria-abierta-responsabilidad-mediata/memoria-abierta-responsabilidad-mediata/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "524.0,533.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "memoria-abierta-responsabilidad-mediata-canvas-1-miscelanea-annotation-32.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "en el aparato castrense, cualquiera de las soluciones propuestas para la punición de quienes delinquen mediante un aparato organizado de poder,",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://llilasbenson.github.io/memoria-abierta-responsabilidad-mediata/memoria-abierta-responsabilidad-mediata/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "550.0,561.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "memoria-abierta-responsabilidad-mediata-canvas-1-miscelanea-annotation-33.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "sea que los consideran autores mediatos, como sostiene la más importante corriente doctrinaria; sea que los encuadren dentro de la coautoría de la investigación,",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://llilasbenson.github.io/memoria-abierta-responsabilidad-mediata/memoria-abierta-responsabilidad-mediata/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "561.0,570.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "memoria-abierta-responsabilidad-mediata-canvas-1-miscelanea-annotation-34.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "y, con ello, a la aplicación de la misma pena, la que se encuentra legalmente prevista para los autores.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://llilasbenson.github.io/memoria-abierta-responsabilidad-mediata/memoria-abierta-responsabilidad-mediata/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "581.0,590.0"
+        }
+      }
+    }
+  ]
+}
