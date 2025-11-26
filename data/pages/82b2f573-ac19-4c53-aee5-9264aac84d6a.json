@@ -1,0 +1,47 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "f198a4d3-693b-4fa6-961d-4769a9aad5c9",
+      "includes": [
+        "annotations",
+        "label",
+        "description"
+      ],
+      "start": 30,
+      "end": 74,
+      "file": "a58e9ce5-e9ed-44f1-a44d-c4176e79ceef",
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Analysis",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "analysis",
+  "created_at": "2025-11-26T18:17:56.186Z",
+  "created_by": "llilasbenson",
+  "updated_at": "2025-11-26T18:17:56.186Z",
+  "updated_by": "llilasbenson"
+}
