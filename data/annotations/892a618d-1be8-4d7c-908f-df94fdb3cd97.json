@@ -1,5 +1,2846 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[título: \"Responsabilidad Mediata\"]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Título",
+          "category": "Segmentos"
+        }
+      ],
+      "uuid": "9ef9a558-0743-48fc-a0f0-d7d64d151b3a"
+    },
+    {
+      "start_time": 7,
+      "end_time": 15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Se ha probado en esta audiencia, y de ello nos hemos ocupado extensamente"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Declaración del problema jurídico",
+          "category": "Segmentos"
+        },
+        {
+          "tag": "Lenguaje emotivo",
+          "category": "Dispositivos retóricos"
+        },
+        {
+          "tag": "Plano general—Frontal",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Strassera, Julio César",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Acusados",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Tempo—Cuidadoso",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "f04c41bc-0446-45aa-8f25-e51b413eda1e"
+    },
+    {
+      "start_time": 15,
+      "end_time": 18,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "en pasajes anteriores de este alegato,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Declaración del problema jurídico",
+          "category": "Segmentos"
+        },
+        {
+          "tag": "Lenguaje emotivo",
+          "category": "Dispositivos retóricos"
+        },
+        {
+          "tag": "Primer plano—De perfil",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Videla, Jorge Rafael, 1925-2013",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Tempo—Cuidadoso",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "5ac5e7b0-1789-45c7-86b1-0c9444c42393"
+    },
+    {
+      "start_time": 18,
+      "end_time": 27,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "la realización de múltiples actos ilícitos que a su vez encuadran en diversas figuras del Código Penal."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Declaración del problema jurídico",
+          "category": "Segmentos"
+        },
+        {
+          "tag": "Lenguaje emotivo",
+          "category": "Dispositivos retóricos"
+        },
+        {
+          "tag": "Plano general—Frontal",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Strassera, Julio César",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Acusados",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Fumar—Inhalar",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Tempo—Cuidadoso",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "77a0674f-db02-49c7-bcbb-67a53b0f9b54"
+    },
+    {
+      "start_time": 27,
+      "end_time": 30,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Pausa]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Declaración del problema jurídico",
+          "category": "Segmentos"
+        },
+        {
+          "tag": "Plano general—Frontal",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Strassera, Julio César",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Acusados",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Pausa—Corta",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "c130d408-1d1b-467a-bd76-d1c7221ac513"
+    },
+    {
+      "start_time": 30,
+      "end_time": 40,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Antes de entrar al análisis de la intervención de los procesados en estos actos, conviene establecer cuál es la responsabilidad"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Declaración del problema jurídico",
+          "category": "Segmentos"
+        },
+        {
+          "tag": "Plano general—Frontal",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Strassera, Julio César",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Acusados",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Tocar—Mejilla",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Manipular—Papel",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Tempo—Cuidadoso",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "a6456d40-f2c6-4a91-903c-a5956d10d74d"
+    },
+    {
+      "start_time": 40,
+      "end_time": 48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "que cabe a aquellos que asumen una participación cuya particular característica consiste en"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Declaración del problema jurídico",
+          "category": "Segmentos"
+        },
+        {
+          "tag": "Plano general—Frontal",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Strassera, Julio César",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Acusados",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Gesto—Hacer un círculo",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Tempo—Cuidadoso",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "3b41688f-65de-413b-b169-f3a96400506c"
+    },
+    {
+      "start_time": 48,
+      "end_time": 52,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "que no se registra su presencia"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Declaración del problema jurídico",
+          "category": "Segmentos"
+        },
+        {
+          "tag": "Primer plano—Desde atrás",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Videla, Jorge Rafael, 1925-2013",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Tempo—Cuidadoso",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "88e21edd-224b-4fc3-8ed9-be68270f6b1c"
+    },
+    {
+      "start_time": 52,
+      "end_time": 58,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "en el lugar y en el momento en que las actividades ilícitas se desarrollaron;"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Declaración del problema jurídico",
+          "category": "Segmentos"
+        },
+        {
+          "tag": "Zoom out—Desde atrás",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Acusados",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Tempo—Cuidadoso",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "988b45a6-9e6a-4441-b3e5-da9159dd792d"
+    },
+    {
+      "start_time": 58,
+      "end_time": 68,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "y cuya actividad radica en haber dado las órdenes generales a partir de las cuales el conjunto de delitos aquí presentados se cometió."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Declaración del problema jurídico",
+          "category": "Segmentos"
+        },
+        {
+          "tag": "Lenguaje emotivo",
+          "category": "Dispositivos retóricos"
+        },
+        {
+          "tag": "Zoom out—Desde atrás",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Plano general—Desde atrás",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Strassera, Julio César",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Acusados",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Cámara Nacional de Apelaciones",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Tempo—Cuidadoso",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "949cdf77-4a57-44d0-8845-81b45775fa6c"
+    },
+    {
+      "start_time": 68,
+      "end_time": 73,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Pausa]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Declaración del problema jurídico",
+          "category": "Segmentos"
+        },
+        {
+          "tag": "Zoom out—Desde atrás",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Plano general—Desde atrás",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Strassera, Julio César",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Acusados",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Cámara Nacional de Apelaciones",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Pausa—Larga",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "68a048d9-fc3f-4e9d-a2e6-6aa0ea58da16"
+    },
+    {
+      "start_time": 74,
+      "end_time": 90,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Esas órdenes, a cuyo contenido más adelante me referiré, dadas desde la cabeza del aparato estatal, significaron la asignación de una parte importante de este,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Delitos cometidos",
+          "category": "Segmentos"
+        },
+        {
+          "tag": "Repetición",
+          "category": "Dispositivos retóricos"
+        },
+        {
+          "tag": "Lenguaje emotivo",
+          "category": "Dispositivos retóricos"
+        },
+        {
+          "tag": "Primer plano—Frontal",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Strassera, Julio César",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Tocar—Mejilla",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Gesto—Señalar",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Tempo—Cuidadoso",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "795ce94b-96fd-402c-8711-673be4b08f47"
+    },
+    {
+      "start_time": 90,
+      "end_time": 103,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "provista de elementos materiales de toda clase, a la realización de una cantidad de actividades comprensivas de muchos y graves delitos descritos en el Código Penal."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Delitos cometidos",
+          "category": "Segmentos"
+        },
+        {
+          "tag": "Lenguaje emotivo",
+          "category": "Dispositivos retóricos"
+        },
+        {
+          "tag": "Primer plano—Frontal",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Strassera, Julio César",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Tocar—Mejilla",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Gesto—Señalar",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Tempo—Cuidadoso",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "f044b101-e077-458b-a6c4-0eb9122590c8"
+    },
+    {
+      "start_time": 104,
+      "end_time": 116,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Comportaron a sí mismo la prescripción a los integrantes de esa parte del aparato del Estado de realizar secuestros, aplicación de tormentos y homicidios"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Delitos cometidos",
+          "category": "Segmentos"
+        },
+        {
+          "tag": "Lenguaje emotivo",
+          "category": "Dispositivos retóricos"
+        },
+        {
+          "tag": "Primer plano—Frontal",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Strassera, Julio César",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Tocar—Mejilla",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Tempo—Cuidadoso",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "9830fe47-9f8e-4612-98c3-6bbe080faf6a"
+    },
+    {
+      "start_time": 117,
+      "end_time": 122,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "respecto de una vasta cantidad de personas definidas vagamente, sobre la base"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Delitos cometidos",
+          "category": "Segmentos"
+        },
+        {
+          "tag": "Lenguaje emotivo",
+          "category": "Dispositivos retóricos"
+        },
+        {
+          "tag": "Primer plano—Desde atrás",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Lambruschini, Armando",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Tocar—Uña",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Tempo—Conversacional",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "baff1bff-3e16-4367-8b97-7dda19d47da5"
+    },
+    {
+      "start_time": 123,
+      "end_time": 138,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "de una categoría genérica como individuos subversivos y caracterizados todos ellos, solamente, por su enfrentamiento más o menos fuerte con el sistema de gobierno imperante en ese momento."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Delitos cometidos",
+          "category": "Segmentos"
+        },
+        {
+          "tag": "Lenguaje emotivo",
+          "category": "Dispositivos retóricos"
+        },
+        {
+          "tag": "Primer plano—Frontal",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Strassera, Julio César",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Tocar—Mejilla",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Fumar—Inhalar",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Tempo—Cuidadoso",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "391e82ec-1b78-4e85-b32c-ba9b4822a7a9"
+    },
+    {
+      "start_time": 138,
+      "end_time": 142,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Pausa]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Delitos cometidos",
+          "category": "Segmentos"
+        },
+        {
+          "tag": "Primer plano—Frontal",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Strassera, Julio César",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Tocar—Mejilla",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Fumar—Apagar",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Fumar—Inhalar",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Pausa—Larga",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "06d65f66-d697-4751-ad95-85daf0543bbf"
+    },
+    {
+      "start_time": 142,
+      "end_time": 153,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Esas órdenes importaron, a su vez, en razón de las particularidades de funcionamiento que se prescribieron para ese sector del aparato estatal,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Delitos cometidos",
+          "category": "Segmentos"
+        },
+        {
+          "tag": "Repetición",
+          "category": "Dispositivos retóricos"
+        },
+        {
+          "tag": "Plano general—Desde atrás",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Strassera, Julio César",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Acusados",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Cámara Nacional de Apelaciones",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Tempo—Cuidadoso",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "2c52550c-ace4-4807-b3f1-eadcc22ade6e"
+    },
+    {
+      "start_time": 154,
+      "end_time": 169,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "esto es la clandestinidad de su modo de operar y la absoluta libertad de acción para sus integrantes a fin de que determinaran los objetivos dentro de ese marco vagamente descrito,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Delitos cometidos",
+          "category": "Segmentos"
+        },
+        {
+          "tag": "Lenguaje emotivo",
+          "category": "Dispositivos retóricos"
+        },
+        {
+          "tag": "Primer plano—Frontal",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Strassera, Julio César",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Tocar—Mejilla",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Gesto—Señalar",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Tempo—Cuidadoso",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "e8732556-765a-48d3-a107-0e75baf103f6"
+    },
+    {
+      "start_time": 170,
+      "end_time": 182,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "la aceptación de que en ese ámbito operativo habrían de cometerse masivamente otro grupo de delitos, tales como robos, abortos, violaciones y supresión del estado civil de menores;"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Delitos cometidos",
+          "category": "Segmentos"
+        },
+        {
+          "tag": "Lenguaje emotivo",
+          "category": "Dispositivos retóricos"
+        },
+        {
+          "tag": "Zoom out—Frontal",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Strassera, Julio César",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Acusados",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Tocar—Mejilla",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Gesto—Hacer un círculo",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Tempo—Conversacional",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "421533e9-5964-42a3-bace-fc73eac22e03"
+    },
+    {
+      "start_time": 183,
+      "end_time": 189,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "así como también, los mismos delitos antes señalados, pero respecto de personas ajenas"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Delitos cometidos",
+          "category": "Segmentos"
+        },
+        {
+          "tag": "Lenguaje emotivo",
+          "category": "Dispositivos retóricos"
+        },
+        {
+          "tag": "Zoom out—Frontal",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Strassera, Julio César",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Acusados",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Tocar—Mejilla",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Tempo—Cuidadoso",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "3a9767ee-377a-43ea-acba-f1f98750ffb3"
+    },
+    {
+      "start_time": 189,
+      "end_time": 192,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "a la vaga caracterización inicial."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Delitos cometidos",
+          "category": "Segmentos"
+        },
+        {
+          "tag": "Lenguaje emotivo",
+          "category": "Dispositivos retóricos"
+        },
+        {
+          "tag": "Plano general—Frontal",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Strassera, Julio César",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Acusados",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Manipular—Papel",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Tocar—Mejilla",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Tempo—Cuidadoso",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "38271cb3-bc0d-4da5-a004-571d1c521837"
+    },
+    {
+      "start_time": 192,
+      "end_time": 195,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Pausa]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Delitos cometidos",
+          "category": "Segmentos"
+        },
+        {
+          "tag": "Plano general—Frontal",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Strassera, Julio César",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Acusados",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Tocar—Mejilla",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Pausa—Corta",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "7f89263c-ac20-408f-be67-f40ddb332b2f"
+    },
+    {
+      "start_time": 195,
+      "end_time": 208,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La cuestión a plantear en este momento ante el tribunal consiste, pues, en establecer cuál es el encuadramiento legal, dentro de las formas de participación conocidas en el Código Penal,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Delitos cometidos",
+          "category": "Segmentos"
+        },
+        {
+          "tag": "Plano general—Frontal",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Strassera, Julio César",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Acusados",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Tocar—Mejilla",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Tocar—Boca",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Tempo—Cuidadoso",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "197f4907-184f-42e0-8865-d1690acbe61b"
+    },
+    {
+      "start_time": 209,
+      "end_time": 215,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "de la conducta de los procesados respecto de los delitos a que hemos hecho referencia."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Delitos cometidos",
+          "category": "Segmentos"
+        },
+        {
+          "tag": "Lenguaje emotivo",
+          "category": "Dispositivos retóricos"
+        },
+        {
+          "tag": "Plano general—Frontal",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Strassera, Julio César",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Acusados",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Tocar—Mentón",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Tempo—Cuidadoso",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "693d1d10-e356-4df1-91fa-ce2ab3020e85"
+    },
+    {
+      "start_time": 216,
+      "end_time": 227,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La cuestión que se encuentra planteada es la siguiente: ¿Quién es el autor de los hechos delictivos que se cometen mediante la utilización de un aparato organizado de poder?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Características del aparato organizado de poder",
+          "category": "Segmentos"
+        },
+        {
+          "tag": "Preguntas",
+          "category": "Dispositivos retóricos"
+        },
+        {
+          "tag": "Lenguaje emotivo",
+          "category": "Dispositivos retóricos"
+        },
+        {
+          "tag": "Primer plano—Frontal",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Strassera, Julio César",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Tocar—Mejilla",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Tempo—Cuidadoso",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "44be2ca8-e073-4b47-a453-9edf0f980bb1"
+    },
+    {
+      "start_time": 228,
+      "end_time": 244,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "O bien, para circunscribir la pregunta a lo que es materia de decisión en estos autos, ¿Puede ser considerado autor de los hechos delictivos cometidos en el seno de un aparato organizado de poder el que dirige esa estructura de poder,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Características del aparato organizado de poder",
+          "category": "Segmentos"
+        },
+        {
+          "tag": "Preguntas",
+          "category": "Dispositivos retóricos"
+        },
+        {
+          "tag": "Lenguaje emotivo",
+          "category": "Dispositivos retóricos"
+        },
+        {
+          "tag": "Primer plano—Frontal",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Strassera, Julio César",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Tocar—Mejilla",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Tempo—Cuidadoso",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "afe83023-37dc-480e-9429-542e32eb206a"
+    },
+    {
+      "start_time": 245,
+      "end_time": 250,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "aunque no haya participado materialmente en la ejecución de los hechos?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Características del aparato organizado de poder",
+          "category": "Segmentos"
+        },
+        {
+          "tag": "Preguntas",
+          "category": "Dispositivos retóricos"
+        },
+        {
+          "tag": "Primer plano—Frontal",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Strassera, Julio César",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Tocar—Mejilla",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Tempo—Cuidadoso",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "8564b540-e725-49b5-bd7b-369fe9d0e398"
+    },
+    {
+      "start_time": 251,
+      "end_time": 267,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Puesta aún de otra manera la pregunta, ¿Puede afirmarse que el que dirige un aparato organizado de poder domina los hechos delictivos, es dueño de la situación delictiva a pesar de no intervenir personalmente la realización de esta?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Características del aparato organizado de poder",
+          "category": "Segmentos"
+        },
+        {
+          "tag": "Preguntas",
+          "category": "Dispositivos retóricos"
+        },
+        {
+          "tag": "Lenguaje emotivo",
+          "category": "Dispositivos retóricos"
+        },
+        {
+          "tag": "Primer plano—Frontal",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Strassera, Julio César",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Tocar—Mejilla",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Tempo—Cuidadoso",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "c52fc58c-5ebd-492e-8ec1-de669e81aebd"
+    },
+    {
+      "start_time": 267,
+      "end_time": 269,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Pausa]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Características del aparato organizado de poder",
+          "category": "Segmentos"
+        },
+        {
+          "tag": "Preguntas",
+          "category": "Dispositivos retóricos"
+        },
+        {
+          "tag": "Lenguaje emotivo",
+          "category": "Dispositivos retóricos"
+        },
+        {
+          "tag": "Primer plano—Frontal",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Strassera, Julio César",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Tocar—Mejilla",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Pausa—Corta",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "5633478f-76bd-4904-bc5c-30c61913edd6"
+    },
+    {
+      "start_time": 269,
+      "end_time": 283,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Si la respuesta a ese interrogante es, como creo, afirmativa podrá sostenerse que el llamado “autor de escritorio” domina los hechos que realiza el aparato de poder que dirige."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Características del aparato organizado de poder",
+          "category": "Segmentos"
+        },
+        {
+          "tag": "Primer plano—Frontal",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Strassera, Julio César",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Tocar—Mejilla",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Tempo—Cuidadoso",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "34302d33-b564-4a24-9272-2a88e5b22154"
+    },
+    {
+      "start_time": 284,
+      "end_time": 294,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Esto es, que sobre determina la causalidad que conduce a todos y cada uno de los hechos ilícitos realizados por ese aparato de poder."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Características del aparato organizado de poder",
+          "category": "Segmentos"
+        },
+        {
+          "tag": "Primer plano—Frontal",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Strassera, Julio César",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Tocar—Mejilla",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Tempo—Cuidadoso",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "0b13ac80-7eb2-4e3e-9a16-6e0389aae5f1"
+    },
+    {
+      "start_time": 294,
+      "end_time": 297,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Pausa]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Características del aparato organizado de poder",
+          "category": "Segmentos"
+        },
+        {
+          "tag": "Primer plano—Frontal",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Strassera, Julio César",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Tocar—Mejilla",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Pausa—Corta",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "c7d63b4f-1f73-42d6-8c15-be20ca36a632"
+    },
+    {
+      "start_time": 298,
+      "end_time": 310,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Marginalmente, esa respuesta apareja consecuencias distintas de las que se producirían si, a idéntico interrogante, se respondiera diciendo que se trata de instigadores y no de autores."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Características del aparato organizado de poder",
+          "category": "Segmentos"
+        },
+        {
+          "tag": "Primer plano—Frontal",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Strassera, Julio César",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Tocar—Mejilla",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Tempo—Cuidadoso",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "2438ee9b-0420-4a29-a488-371f0a359f57"
+    },
+    {
+      "start_time": 311,
+      "end_time": 323,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "En efecto, la afirmación de que son autores lleva a sostener que el comienzo de ejecución tiene lugar en el momento en que se dan las órdenes ilegales, y,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Características del aparato organizado de poder",
+          "category": "Segmentos"
+        },
+        {
+          "tag": "Primer plano—Frontal",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Strassera, Julio César",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Tocar—Mejilla",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Tempo—Cuidadoso",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "7c049cd8-f01e-45d5-bf09-ef2c54204683"
+    },
+    {
+      "start_time": 323,
+      "end_time": 340,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "consecuentemente, que tienen la posibilidad de desistir de los actos ilícitos emprendidos, dependiendo el funcionamiento de la excusa absolutoria correspondiente al desistimiento, de la eficacia o ineficacia de este."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Características del aparato organizado de poder",
+          "category": "Segmentos"
+        },
+        {
+          "tag": "Lenguaje emotivo",
+          "category": "Dispositivos retóricos"
+        },
+        {
+          "tag": "Primer plano—Frontal",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Strassera, Julio César",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Tocar—Mejilla",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Gesto—Señalar",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Tempo—Cuidadoso",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "513bfca2-3696-4567-b2f2-0513dc48837a"
+    },
+    {
+      "start_time": 340,
+      "end_time": 342,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Pausa]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Características del aparato organizado de poder",
+          "category": "Segmentos"
+        },
+        {
+          "tag": "Primer plano—Frontal",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Strassera, Julio César",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Tocar—Mejilla",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Pausa—Corta",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "6c7a1913-52a3-4799-bed8-ba0842882d1a"
+    },
+    {
+      "start_time": 342,
+      "end_time": 359,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El uso de la expresión “aparato organizado de poder”, admitida hoy sin discrepancia en la doctrina que se ocupa del tema, obliga, siquiera brevemente, a esclarecer el alcance que se le asigna."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Características del aparato organizado de poder",
+          "category": "Segmentos"
+        },
+        {
+          "tag": "Primer plano—Frontal",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Strassera, Julio César",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Tocar—Mejilla",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Tempo—Cuidadoso",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "cdf1b7f6-c616-4633-926e-bb792d5ec7db"
+    },
+    {
+      "start_time": 360,
+      "end_time": 375,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "En la conformación estructural de ese tipo de organización aparece, a la cabeza, un centro de decisión desde el cual se imparten las directivas que se traducen en la realización de actos ilícitos."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Características del aparato organizado de poder",
+          "category": "Segmentos"
+        },
+        {
+          "tag": "Lenguaje emotivo",
+          "category": "Dispositivos retóricos"
+        },
+        {
+          "tag": "Primer plano—Frontal",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Strassera, Julio César",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Tocar—Mejilla",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Tempo—Cuidadoso",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "8907188f-b111-4593-8006-15c0f9e02b6f"
+    },
+    {
+      "start_time": 375,
+      "end_time": 386,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "En ese centro de decisiones está, pues, la posibilidad de cometer o no cometer la actividad delictiva de qué se trate."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Características del aparato organizado de poder",
+          "category": "Segmentos"
+        },
+        {
+          "tag": "Lenguaje emotivo",
+          "category": "Dispositivos retóricos"
+        },
+        {
+          "tag": "Primer plano—Frontal",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Strassera, Julio César",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Tocar—Mejilla",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Tempo—Cuidadoso",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "05519f3d-cdf0-443d-b337-74777670a728"
+    },
+    {
+      "start_time": 386,
+      "end_time": 390,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Pausa]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Características del aparato organizado de poder",
+          "category": "Segmentos"
+        },
+        {
+          "tag": "Primer plano—Frontal",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Strassera, Julio César",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Tocar—Mejilla",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Pausa—Corta",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "a1afe9b7-d619-4d59-a519-d54bc81fcab4"
+    },
+    {
+      "start_time": 390,
+      "end_time": 400,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cabe señalar, además, que en estas organizaciones existe una estructura objetiva suficiente que justifica el traslado o remisión del carácter"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Características del aparato organizado de poder",
+          "category": "Segmentos"
+        },
+        {
+          "tag": "Zoom out—Frontal",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Strassera, Julio César",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Acusados",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Manipular—Papel",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Tempo—Cuidadoso",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "4bbc773c-e47d-465e-bebc-e59b5d06ee10"
+    },
+    {
+      "start_time": 400,
+      "end_time": 407,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "de autor a quién da las órdenes, sin restarlo del ejecutor inmediato de esta"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Características del aparato organizado de poder",
+          "category": "Segmentos"
+        },
+        {
+          "tag": "Plano general—Frontal",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Strassera, Julio César",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Acusados",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Tocar—Boca",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Manipular—Lápiz",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Tempo—Cuidadoso",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "3b5b166f-4ff3-42fc-ba32-6e3f2b2605bf"
+    },
+    {
+      "start_time": 408,
+      "end_time": 420,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "De esta manera, y vale reiterarlo, el aparato se presenta objetivamente como el fundamento de la extensión de la categoría de autor a quienes se encuentran en la cúspide de la estructura."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Características del aparato organizado de poder",
+          "category": "Segmentos"
+        },
+        {
+          "tag": "Plano general—Frontal",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Strassera, Julio César",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Acusados",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Tocar—Boca",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Manipular—Lápiz",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Tempo—Conversacional",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "bb55708a-acf8-4ac2-a772-083e77bb6dd7"
+    },
+    {
+      "start_time": 420,
+      "end_time": 427,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Pausa]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Características del aparato organizado de poder",
+          "category": "Segmentos"
+        },
+        {
+          "tag": "Plano general—Frontal",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Strassera, Julio César",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Acusados",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Tocar—Boca",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Beber",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Pausa—Larga",
+          "category": "Audio"
+        },
+        {
+          "tag": "Manipular—Lápiz",
+          "category": "Acciones"
+        }
+      ],
+      "uuid": "84bc38fe-a59a-4b80-a0e0-98aba9e3a4f5"
+    },
+    {
+      "start_time": 427,
+      "end_time": 444,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La alta autoridad competente en este tipo de organizaciones domina el hecho, de modo tal que tomada la decisión de que ocurra determinado episodio delictivo, este acontece automáticamente."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Características del aparato organizado de poder",
+          "category": "Segmentos"
+        },
+        {
+          "tag": "Lenguaje emotivo",
+          "category": "Dispositivos retóricos"
+        },
+        {
+          "tag": "Plano general—Frontal",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Strassera, Julio César",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Acusados",
+          "category": "Personajes"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": ""
+        },
+        {
+          "tag": "Tocar—Mejilla",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Caminar",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Tocar—Boca",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Gesto—Hacer un círculo",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Manipular—Lápiz",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Tempo—Cuidadoso",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "3a54822a-c9af-4dd5-b871-9387ffc52928"
+    },
+    {
+      "start_time": 444,
+      "end_time": 450,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Es el dato específico que caracteriza a estos aparatos organizados de poder."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Características del aparato organizado de poder",
+          "category": "Segmentos"
+        },
+        {
+          "tag": "Plano general—Frontal",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Strassera, Julio César",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Acusados",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Tocar—Nariz",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Tocar—Mejilla",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Tempo—Cuidadoso",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "36a47199-2716-40e0-ae2b-8d74591ac4f7"
+    },
+    {
+      "start_time": 451,
+      "end_time": 461,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Por otra parte, es de señalar que el encargo se cumple sin necesidad de que se conozca a los directos ejecutores."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Características del aparato organizado de poder",
+          "category": "Segmentos"
+        },
+        {
+          "tag": "Plano general—Frontal",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Tocar—Boca",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Tocar—Mejilla",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Tempo—Cuidadoso",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "1821efd1-afc6-4712-b67d-4f73efad376c"
+    },
+    {
+      "start_time": 461,
+      "end_time": 479,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Esta otra particularidad, que infrecuentemente se presentan las situaciones corrientes, es particularidad que conduce a firmar otro dato fundamental en la identificación de estos aparatos, es la fungibilidad de los ejecutores de las órdenes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Características del aparato organizado de poder",
+          "category": "Segmentos"
+        },
+        {
+          "tag": "Plano general—Frontal",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Strassera, Julio César",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Acusados",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Tocar—Mejilla",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Tocar—Boca",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Manipular—Lápiz",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Tempo—Cuidadoso",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "b0681311-a55b-42b6-b4ed-e797198d5d8e"
+    },
+    {
+      "start_time": 479,
+      "end_time": 482,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Pausa]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Características del aparato organizado de poder",
+          "category": "Segmentos"
+        },
+        {
+          "tag": "Plano general—Frontal",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Strassera, Julio César",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Acusados",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Tocar—Mejilla",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Tocar—Boca",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Manipular—Papel",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Pausa—Corta",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "332069a7-4df9-4338-870d-5c4f41fd56df"
+    },
+    {
+      "start_time": 483,
+      "end_time": 493,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "De este último elemento se deriva que en el supuesto de que alguien no cumpla la decisión tomada, otros se encargará de ejecutarla en su lugar."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Características del aparato organizado de poder",
+          "category": "Segmentos"
+        },
+        {
+          "tag": "Plano general—Frontal",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Strassera, Julio César",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Acusados",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Manipular—Papel",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Tocar—Boca",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Tempo—Cuidadoso",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "60967e0c-2775-444b-8285-11aa06013f77"
+    },
+    {
+      "start_time": 493,
+      "end_time": 507,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pues, una estructura de tales características posee la capacidad de reemplazo necesaria para que cada pieza de la máquina sea sustituida inmediatamente por otra que realice la misma función."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Características del aparato organizado de poder",
+          "category": "Segmentos"
+        },
+        {
+          "tag": "Plano general—Frontal",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Strassera, Julio César",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Acusados",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Tocar—Boca",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Tempo—Cuidadoso",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "c52d46da-55dd-456b-9faf-4f227703b32a"
+    },
+    {
+      "start_time": 508,
+      "end_time": 513,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "De manera que el destino final de la orden se cumpla inexorablemente."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Características del aparato organizado de poder",
+          "category": "Segmentos"
+        },
+        {
+          "tag": "Lenguaje emotivo",
+          "category": "Dispositivos retóricos"
+        },
+        {
+          "tag": "Plano general—Frontal",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Strassera, Julio César",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Acusados",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Tempo—Cuidadoso",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "071e3348-0f0a-4395-b3c6-16236a382346"
+    },
+    {
+      "start_time": 513,
+      "end_time": 514,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Pausa]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Características del aparato organizado de poder",
+          "category": "Segmentos"
+        },
+        {
+          "tag": "Lenguaje emotivo",
+          "category": "Dispositivos retóricos"
+        },
+        {
+          "tag": "Plano general—Frontal",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Strassera, Julio César",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Acusados",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Pausa—Corta",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "04290188-80b7-4938-ab0c-8b423aa6d49c"
+    },
+    {
+      "start_time": 515,
+      "end_time": 516,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Solo resta señalar que,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Características del aparato organizado de poder",
+          "category": "Segmentos"
+        },
+        {
+          "tag": "Plano general—Desde atrás",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Strassera, Julio César",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Acusados",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Cámara Nacional de Apelaciones",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Tempo—Rápido",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "ad342773-c875-4f2b-8506-1f3632898ee1"
+    },
+    {
+      "start_time": 517,
+      "end_time": 524,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "a la luz del artículo 514 del Código de Justicia Militar, aplicable a los procesados en esta causa,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Características del aparato organizado de poder",
+          "category": "Segmentos"
+        },
+        {
+          "tag": "Toma cenital",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Abogados",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Escribir",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Tempo—Cuidadoso",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "28351550-4f84-476d-9131-742d21035e10"
+    },
+    {
+      "start_time": 524,
+      "end_time": 533,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "el tratamiento como autores de quienes imparten órdenes que conducen a la realización de un delito, resulta inexorable."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Características del aparato organizado de poder",
+          "category": "Segmentos"
+        },
+        {
+          "tag": "Lenguaje emotivo",
+          "category": "Dispositivos retóricos"
+        },
+        {
+          "tag": "Zoom in—Cenital",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Abogados",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Escribir",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Tempo—Cuidadoso",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "1fd6f96f-d185-4435-8779-ff1e3440af0b"
+    },
+    {
+      "start_time": 534,
+      "end_time": 538,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A modo de conclusión, solo cabe señalar que, más allá de la regla expresa del artículo 514"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Conclusión sobre la pena",
+          "category": "Segmentos"
+        },
+        {
+          "tag": "Zoom in—Cenital",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Abogados",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Escribir",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Tempo—Rápido",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "d6846031-b553-4308-b143-37246dca7dc5"
+    },
+    {
+      "start_time": 539,
+      "end_time": 541,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "del Código de Justicia Militar"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Conclusión sobre la pena",
+          "category": "Segmentos"
+        },
+        {
+          "tag": "Primer plano—Frontal",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Abogados",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Escribir",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Tempo—Conversacional",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "e3c209c3-e399-4447-874b-91add0b92676"
+    },
+    {
+      "start_time": 542,
+      "end_time": 550,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "que instituye inequívocamente en autores a quienes cometen delitos por medio de su subordinados"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Conclusión sobre la pena",
+          "category": "Segmentos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Wide shot--Rear"
+        },
+        {
+          "tag": "Strassera, Julio César",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Cámara Nacional de Apelaciones",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Tocar—Boca",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Tempo—Cuidadoso",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "1375e971-4895-4ecb-a238-e1a0db8657b9"
+    },
+    {
+      "start_time": 550,
+      "end_time": 551,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "en el aparato castrense"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Conclusión sobre la pena",
+          "category": "Segmentos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Wide shot--Rear"
+        },
+        {
+          "tag": "Strassera, Julio César",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Cámara Nacional de Apelaciones",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Tocar—Boca",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Tempo—Muy rápido",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "55f60e14-59de-44e7-afb7-bf1254ed5c48"
+    },
+    {
+      "start_time": 552,
+      "end_time": 554,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "cualquiera de las soluciones propuestas"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Conclusión sobre la pena",
+          "category": "Segmentos"
+        },
+        {
+          "tag": "Primer plano—De perfil",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Abogados",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Escribir",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Tempo—Conversacional",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "3fc54bc7-b91f-498c-87ac-94782cf2efd2"
+    },
+    {
+      "start_time": 555,
+      "end_time": 561,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "para la punición de quienes delinquen mediante un aparato organizado de poder,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Conclusión sobre la pena",
+          "category": "Segmentos"
+        },
+        {
+          "tag": "Zoom out—De perfil",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Abogados",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Escribir",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Tempo—Cuidadoso",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "a4ef0ba7-6abd-4d92-b2a0-c0324aadd6d7"
+    },
+    {
+      "start_time": 561,
+      "end_time": 570,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "sea que los consideran autores mediatos, como sostiene la más importante corriente doctrinaria; sea que los encuadren dentro de la coautoría de la investigación,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Conclusión sobre la pena",
+          "category": "Segmentos"
+        },
+        {
+          "tag": "Zoom out—De perfil",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Abogados",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Escribir",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Tempo—Conversacional",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "ea29f1e5-0c10-466b-9bcf-1eaea04ea7b3"
+    },
+    {
+      "start_time": 570,
+      "end_time": 575,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "como también se ha sostenido, conduce a idéntica conclusión"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Conclusión sobre la pena",
+          "category": "Segmentos"
+        },
+        {
+          "tag": "Toma cenital",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Abogados",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Manipular—Papel",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Tempo—Cuidadoso",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "5760a1ee-1011-420d-9ae1-e8e2d86693e6"
+    },
+    {
+      "start_time": 576,
+      "end_time": 581,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "en punto a declarar los comprendidos en los términos del artículo 45 del Código Penal"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Conclusión sobre la pena",
+          "category": "Segmentos"
+        },
+        {
+          "tag": "Plano general—Desde atrás",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Strassera, Julio César",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Cámara Nacional de Apelaciones",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Gesto—Hacer un círculo",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Escribir",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Tempo—Conversacional",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "7b521df5-7cd2-474c-8fcc-12d67df6ee8c"
+    },
+    {
+      "start_time": 581,
+      "end_time": 585,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "y, con ello, a la aplicación de la misma pena,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Conclusión sobre la pena",
+          "category": "Segmentos"
+        },
+        {
+          "tag": "Plano general—Desde atrás",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Strassera, Julio César",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Cámara Nacional de Apelaciones",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Gesto—Hacer un círculo",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Escribir",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Tempo—Cuidadoso",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "c32c17b0-4678-437c-978c-12f3a1b9a8db"
+    },
+    {
+      "start_time": 586,
+      "end_time": 590,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "la que se encuentra legalmente prevista para los autores."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Conclusión sobre la pena",
+          "category": "Segmentos"
+        },
+        {
+          "tag": "Primer plano—De perfil",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Videla, Jorge Rafael, 1925-2013",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Tempo—Cuidadoso",
+          "category": "Audio"
+        }
+      ],
+      "uuid": "e6688a1a-7983-4089-81bd-2718ca634ae7"
+    }
+  ],
   "set": "Default",
   "event_id": "f198a4d3-693b-4fa6-961d-4769a9aad5c9",
   "source_id": "a58e9ce5-e9ed-44f1-a44d-c4176e79ceef"
