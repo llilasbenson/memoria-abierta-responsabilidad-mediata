@@ -17,6 +17,95 @@
       ]
     },
     {
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "uuid": "f198a4d3-693b-4fa6-961d-4769a9aad5c9",
+              "includes": [
+                "media",
+                "annotations"
+              ],
+              "start": 1800,
+              "end": 4440,
+              "file": "a58e9ce5-e9ed-44f1-a44d-c4176e79ceef",
+              "type": "event",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "uuid": "f198a4d3-693b-4fa6-961d-4769a9aad5c9",
+              "includes": [
+                "media"
+              ],
+              "end": 1800,
+              "file": "a58e9ce5-e9ed-44f1-a44d-c4176e79ceef",
+              "type": "event",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "uuid": "f198a4d3-693b-4fa6-961d-4769a9aad5c9",
       "includes": [
         "annotations",
@@ -58,6 +147,6 @@
   "slug": "analysis",
   "created_at": "2025-11-26T18:17:56.186Z",
   "created_by": "llilasbenson",
-  "updated_at": "2026-03-05T21:38:25.499Z",
+  "updated_at": "2026-03-05T21:42:29.757Z",
   "updated_by": "llilasbenson"
 }
